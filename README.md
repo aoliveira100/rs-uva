@@ -17,6 +17,10 @@ Para instalar o gerenciador de pacos do Node, o **NPM**:
 ```
 npm install npm@latest -g
 ```
+
+Uma boa dica para instalar o npm é http://www.luiztools.com.br/post/como-rodar-nodejs-em-servidor-windows/
+Não se esqueça de que o comando npm install deve ser feito na pasta do projeto que contém o arquivo package.json. No caso do nosso projeto, na pasta view.
+
 Para instalar o **Bower**, gerenciador de dependencias do projeto:
 ```
 npm install -g bower
